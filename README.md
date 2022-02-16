@@ -24,8 +24,8 @@ Declare a variable prodcut to array and compute array1*array2
 Print the the value of the product
 ## PROGRAM: 
 ```
-#Developed By:Manoj Guna Sundar Tella
-#Ref no : 21003796
+#Developed By:palamakula deepika
+#Ref no : 21003786
 import numpy as np
 
 m1,m2 =[],[]
